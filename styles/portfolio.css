@@ -98,3 +98,6 @@ main{
     display: flex;
     justify-content: space-around;
 }
+#what-i-do{
+    padding: 30px 150px;
+}
